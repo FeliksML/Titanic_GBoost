@@ -1,5 +1,15 @@
 # 🚢 Titanic Survival Prediction (Work in Progress) 🧊
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Project Structure](#project-structure)
+3. [Technologies Used](#technologies-used)
+4. [Current Progress](#current-progress)
+5. [Initial Results](#initial-results)
+6. [Ongoing Work](#ongoing-work)
+7. [Next Steps](#next-steps)
+8. [Setup](#setup)
+
 ## 📊 Predicting Passenger Survival using Gradient Boosted Trees 🌳
 
 Welcome to our ongoing Titanic Survival Prediction project! We're currently using machine learning to predict who would have survived the Titanic disaster. 🕵️‍♂️
@@ -15,6 +25,24 @@ Our mission is to build a model that can predict whether a passenger survived th
 - TensorFlow 🧠
 - TensorFlow Decision Forests 🌲
 - Matplotlib 📈
+
+### 🗂️ Project Structure
+```
+titanic-survival-prediction/
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+├── models/
+│   ├── titanic_model.pkl
+├── notebooks/
+│   ├── titanic.ipynb
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── model_evaluation.py
+├── README.md
+└── requirements.txt
+```
 
 ### 📋 Current Progress
 
