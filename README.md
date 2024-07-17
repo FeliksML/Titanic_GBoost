@@ -1,14 +1,14 @@
 # 🚢 Titanic Survival Prediction (Work in Progress) 🧊
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Project Structure](#project-structure)
-3. [Technologies Used](#technologies-used)
-4. [Current Progress](#current-progress)
-5. [Initial Results](#initial-results)
-6. [Ongoing Work](#ongoing-work)
-7. [Next Steps](#next-steps)
-8. [Setup](#setup)
+1. [Project Goal](#-project-goal)
+2. [Technologies Used](#-technologies-used-so-far)
+3. [Project Structure](#-project-structure)
+4. [Current Progress](#-current-progress)
+5. [Initial Results](#-initial-results)
+6. [Ongoing Work](#-ongoing-work)
+7. [Next Steps](#-next-steps)
+8. [Setup](#-current-setup)
 
 ## 📊 Predicting Passenger Survival using Gradient Boosted Trees 🌳
 
